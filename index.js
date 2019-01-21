@@ -1,2 +1,4 @@
 /* code goes here */
-document.addEventListener('DOMContentLoaded', ())
+document.addEventListener('DOMContentLoaded', () =>
+
+)
