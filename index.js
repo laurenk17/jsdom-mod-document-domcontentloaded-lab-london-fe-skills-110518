@@ -2,5 +2,5 @@
 document.addEventListener('DOMContentLoaded', () =>
   {
     let e = document.querySelector("div#hidden-div");
-    let newVal = parseInt(e.innerText)
+    let newVal = parseInt(e.innerText) + 1
     })
